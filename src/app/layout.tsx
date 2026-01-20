@@ -54,7 +54,7 @@ export const metadata: Metadata = {
         images: ['/og-image.png'],
     },
     verification: {
-        google: 'google-site-verification=YOUR_VERIFICATION_CODE_HERE', // User to replace this with code from GSC
+        google: 'Tz28yxHaPvFdSpH6tHK-Qt_z1dsVtvNAl92fw09gLS0',
     },
     robots: {
         index: true,
