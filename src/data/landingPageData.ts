@@ -1,9 +1,9 @@
 import { GraduationCap, Compass, FileText } from "lucide-react";
 
 export const heroData = {
-    subtext: "Architecture · Heritage · Pedagogy",
-    heading: "Architecture-led travel & academic exploration",
-    description: "Bridging pedagogy and place through structured observation, documentation, and curriculum-aligned study tours for architecture students and educators.",
+    subtext: "Architecture Study Tours · Heritage Walks · Educational Travel",
+    heading: "Architecture Study Tours & Educational Travel in India",
+    description: "Bridging pedagogy and place through structured observation, documentation, and curriculum-aligned architecture study tours for students and educators.",
     primaryCta: {
         text: "Explore Study Tours",
         href: "/study-tours"
@@ -17,7 +17,7 @@ export const heroData = {
 export const whyChooseUsData = {
     sectionHeader: {
         label: "Why Choose Us",
-        title: "Why choose Backpacks & Blueprints"
+        title: "Expert-Led Architecture Study Tours"
     },
     content: [
         "We design every tour as an extension of the architecture studio—where travel becomes a pedagogical tool, not just a recreational break. Each programme is curriculum-aligned, year-specific, and built around clear learning outcomes.",
@@ -42,13 +42,13 @@ export const approachData = {
 export const offeringsData = {
     sectionHeader: {
         label: "What We Offer",
-        title: "Academic programmes and services",
-        description: "From multi-day study tours to single-session heritage walks, our offerings are designed for different learning contexts and institutional needs."
+        title: "Architecture Study Programmes & Services",
+        description: "From multi-day architecture study tours to single-session heritage walks, our offerings are designed for different learning contexts and institutional needs."
     },
     cards: [
         {
             icon: GraduationCap,
-            title: "Study Tours",
+            title: "Architecture Study Tours",
             description: "Curriculum-aligned multi-day tours designed for architecture students, with structured observation, faculty integration, and documentation deliverables.",
             href: "/study-tours",
             features: [
@@ -59,8 +59,8 @@ export const offeringsData = {
         },
         {
             icon: Compass,
-            title: "Heritage & City Walks",
-            description: "Architectural reading of cities, monuments, and precincts. Not tourist walks—structured explorations for students, researchers, and curious minds.",
+            title: "Heritage Walks & City Explorations",
+            description: "Architectural reading of cities, monuments, and precincts in India. Not tourist walks—structured explorations for students, researchers, and curious minds.",
             href: "/heritage-walks",
             features: [
                 "Urban morphology analysis",
@@ -70,7 +70,7 @@ export const offeringsData = {
         },
         {
             icon: FileText,
-            title: "Documentation & Research",
+            title: "Architectural Documentation & Research",
             description: "Visual and analytical documentation of architectural heritage. Measured drawings, photographic essays, and research repositories.",
             href: "/documentation",
             features: [
@@ -109,7 +109,7 @@ export const impactData = {
 };
 
 export const ctaData = {
-    heading: "Ready to transform how your students learn from the built environment?",
+    heading: "Ready to transform your architecture study tour experience?",
     subheading: "Let's design an academic programme that bridges your curriculum and the cities you wish to explore.",
     button: {
         text: "Start a Conversation",
@@ -119,8 +119,8 @@ export const ctaData = {
 
 export const problemData = {
     sectionHeader: {
-        label: "The Problem",
-        title: "Why we do what we do"
+        label: "The Context",
+        title: "Bridging the Gap in Architectural Education"
     },
     content: [
         "Architecture education is often confined to the studio, with students struggling to connect theoretical concepts to real-world built environments.",

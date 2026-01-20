@@ -9,7 +9,7 @@ const baseUrl = 'https://backpacksandblueprints.com';
 export const metadata: Metadata = {
     metadataBase: new URL(baseUrl),
     title: {
-        default: 'Backpacks & Blueprints | Architecture Study Tours & Heritage Walks',
+        default: 'Backpacks & Blueprints | Architecture Study Tours & Heritage Walks India',
         template: '%s | Backpacks & Blueprints',
     },
     description: 'Architecture-led travel and academic exploration for students, educators, and curious minds. Curated study tours, heritage walks, and documentation projects across India.',
