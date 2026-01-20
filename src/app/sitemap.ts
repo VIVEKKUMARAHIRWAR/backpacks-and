@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://backpacks-and-main.vercel.app';
+    const baseUrl = 'https://backpacksandblueprints.com';
     const currentDate = new Date();
 
     return [

@@ -4,7 +4,7 @@ import Layout from "@/components/layout/Layout";
 import { generateOrganizationSchema } from "@/lib/structured-data";
 import "../index.css";
 
-const baseUrl = 'https://backpacks-and-main.vercel.app';
+const baseUrl = 'https://backpacksandblueprints.com';
 
 export const metadata: Metadata = {
     metadataBase: new URL(baseUrl),

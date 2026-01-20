@@ -38,7 +38,7 @@ export function generateOrganizationSchema(): OrganizationSchema {
         '@type': 'EducationalOrganization',
         name: 'Backpacks & Blueprints',
         description: 'Architecture-led travel and academic exploration for students, educators, and curious minds',
-        url: 'https://backpacks-and-main.vercel.app',
+        url: 'https://backpacksandblueprints.com',
         sameAs: [
             'https://www.instagram.com/backpacksandblueprints/',
             'https://www.youtube.com/@BackpacksandBlueprints',

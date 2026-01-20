@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function robots(): MetadataRoute.Robots {
-    const baseUrl = 'https://backpacks-and-main.vercel.app';
+    const baseUrl = 'https://backpacksandblueprints.com';
 
     return {
         rules: [
