@@ -53,6 +53,9 @@ export const metadata: Metadata = {
         description: 'Architecture-led travel and academic exploration for students, educators, and curious minds.',
         images: ['/og-image.png'],
     },
+    verification: {
+        google: 'google-site-verification=YOUR_VERIFICATION_CODE_HERE', // User to replace this with code from GSC
+    },
     robots: {
         index: true,
         follow: true,
